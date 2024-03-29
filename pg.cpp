@@ -1,6 +1,6 @@
 // I created this because I needed a password generator at work since I work as a It technician
 // and I did not want to use third party applications since the one I was using got taken down thats 
-// when I realized that I could create my own generator with c++!!
+// when I realized that I could create my own generator with C++.
 
 #include <iostream>
 #include <fstream> 
